@@ -33,7 +33,7 @@ class Home extends Component {
           </Button.Group>
           <Divider hidden/>
           <Container>
-            <Card.Group itemsPerRow={4}>
+            <Card.Group style={{"justify-content": "center"}}>
               {moblist.map(mob=>{
                   let classFilter;
 
