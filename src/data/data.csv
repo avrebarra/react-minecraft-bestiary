@@ -1,0 +1,51 @@
+id,name,imageSrc,class,officialURL
+1,Bat,BatFace.png,passive,Bat
+2,Chicken,ChickenFace.png,passive,Chicken
+3,Cow,CowFace.png,passive,Cow
+4,Mooshroom,MooshroomFace.png,passive,Mooshroom
+5,Pig,PigFace.png,passive,Pig
+6,Rabbit,Rabbiticon.png,passive,Rabbit
+7,Sheep,SheepFace.png,passive,Sheep
+8,Skeleton Horse,SkeletonHorseHead.png,passive,Skeleton Horse
+9,Squid,Squidface.png,passive,Squid
+10,Villager,Villagerhead.png,passive,Villager
+11,Cave Spider,CaveSpiderFace.png,neutral,Cave Spider
+12,Enderman,EndermanFace.png,neutral,Enderman
+13,Polar Bear,PolarBearFace.png,neutral,Polar Bear
+14,Spider,SpiderFace.png,neutral,Spider
+15,Zombie Pigman,ZombiePigmanFace.png,neutral,Zombie Pigman
+16,Blaze,Blaze Face.png,hostile,Blaze
+17,Chicken Jockey,Chickenjockey.png,hostile,Chicken Jockey
+18,Creeper,CreeperFace.png,hostile,Creeper
+19,Elder Guardian,Elder GuardianFace.png,hostile,Elder Guardian
+20,Endermite,EndermiteFace.png,hostile,Endermite
+21,Evoker,Evoker Head.png,hostile,Evoker
+22,Ghast,GhastFace.png,hostile,Ghast
+23,Guardian,GuardianFace.png,hostile,Guardian
+24,Husk,HuskFace.png,hostile,Husk
+25,Magma Cube,Magma Cube Face.png,hostile,Magma Cube
+26,Shulker,ShulkerFace.png,hostile,Shulker
+27,Silverfish,SilverfishFace.png,hostile,Silverfish
+28,Skeleton,SkeletonFace.png,hostile,Skeleton
+29,Skeleton Horseman,SkeletonRiderFace.png,hostile,Skeleton Horseman
+30,Slime,SlimeFace.png,hostile,Slime
+31,Spider Jockey,SpiderJockeyFace.png,hostile,Spider Jockey
+32,Stray,StrayFace.png,hostile,Stray
+33,Vex,Vex Head.png,hostile,Vex
+34,Vindicator,Vindicator Head.png,hostile,Vindicator
+35,Witch,Witchface2.png,hostile,Witch
+36,Wither Skeleton,WitherSkeletonHead.png,hostile,Wither Skeleton
+37,Zombie,ZombieFace.png,hostile,Zombie
+38,Zombie Villager,ZombieVillagerHead.png,hostile,Zombie Villager
+39,Donkey,DonkeyHead.png,tameable,Donkey
+40,Horse,HorseHead.png,tameable,Horse
+41,Llama ,Llama Head.png,tameable,Llama 
+42,Mule,MuleHead.png,tameable,Mule
+43,Ocelot,OcelotFace.png,tameable,Ocelot
+44,Parrot ,Parrot Face.png,tameable,https://minecraft.gamepedia.com/Parrot
+45,Wolf,WolfFace.png,tameable,Wolf
+46,Iron Golem,Vg face.png,utility,Iron Golem
+47,Snow Golem,Snowgolemhead.png,utility,Snow Golem
+48,Ender Dragon,Enderdragon Face.png,boss,Ender Dragon
+49,Wither,WitherFace.png,boss,Wither
+50,Elder Guardian,Elder GuardianFace.png,boss,Elder Guardian

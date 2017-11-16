@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-bestiary",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cross-env": "^5.1.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "semantic-ui-react": "^0.76.0"
+  },
+  "scripts": {
+    "start": "cross-env NODE_PATH=./src react-scripts start",
+    "build": "cross-env NODE_PATH=./src react-scripts build",
+    "test": "cross-env NODE_PATH=./src react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
