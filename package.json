@@ -1,5 +1,6 @@
 {
   "name": "minecraft-bestiary",
+  "description": "A Minecraft™ mobs bestiary. A web experiment made using ReactJS + react-router + SemanticUI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
